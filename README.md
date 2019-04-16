@@ -4,36 +4,36 @@ As a software developer, when you are working with machines, you don't have to t
 
 # Symbols
 
-| Symbol   |                            English 🇬🇧                            |                Spanish 🇪🇸                 |
+| Symbol   |                            English 🇬🇧                            |                Portuguese🇵🇹🇸            |
 | :------: | :--------------------------------------------------------------: | :---------------------------------------: |
-|   `;`    |                            semicolon                             |               punto y coma                |
-|   `:`    |                              colon                               |                dos puntos                 |
-|   `.`    |                           dot, period                            |                   punto                   |
-|   `,`    |                              comma                               |                   coma                    |
-|   `"`    |                           double quote                           |              comillas dobles              |
-|   `'`    |                     single quote, apostrophe                     |         comilla simple, apóstrofe         |
-|   `` ` ``  |                       backtick, backquote                      |       acento abierto, acento grave        |
-|   `()`   |           parenthesis (opening \| closing parenthesis)           |  paréntesis (abre \| cierra paréntesis)   |
-|   `[]`   |      brackets, square brackets (opening \| closing bracket)      |    corchetes (abre \| cierra corchete)    |
-|   `{}`   | curly braces, braces, curly brackets (opening \| closing braces) |       llaves (abre \| cierra llave)       |
-|   `!`    |                      exclamation mark, bang                       | signo de admiración, signo de exclamación |
-|   `?`    |                          question mark                           |         símbolo de interrogación          |
+|   `;`    |                            semicolon                             |               ponto e vírgula             |
+|   `:`    |                              colon                               |                dois pontos                |
+|   `.`    |                           dot, period                            |                   ponto                   |
+|   `,`    |                              comma                               |                   vírgula                 |
+|   `"`    |                           double quote                           |                   aspas                   |
+|   `'`    |                     single quote, apostrophe                     |                  apóstrofe                |
+|   `` ` ``  |                       backtick, backquote                      |                  acento grave             |
+|   `()`   |           parenthesis (opening \| closing parenthesis)           |   parênteses (abre \| fecha parênteses)   |
+|   `[]`   |      brackets, square brackets (opening \| closing bracket)      |parênteses retos (abre \| fecha parênteses retos)|
+|   `{}`   | curly braces, braces, curly brackets (opening \| closing braces) |       chavetas (abre \| fecha chavetas)       |
+|   `!`    |                      exclamation mark, bang                       | ponto de exclamação |
+|   `?`    |                          question mark                           |         ponto de interrogação          |
 |   `@`    |                                at                                |                  arroba                   |
-|   `#`    |                               hash                               |                almohadilla                |
+|   `#`    |                               hash                               |                cardinal .                 |
 |   `$`    |                           dollar sign                            |                   dólar                   |
-|   `%`    |                           percent sign                           |                porcentaje                 |
-|   `^`    |                              caret                               |            acento circunflejo             |
+|   `%`    |                           percent sign                           |                percentagem                 |
+|   `^`    |                              caret                               |            acento circunflexo / chapéu             |
 |   `&`    |                            ampersand                             |                 ampersand                 |
 |   `*`    |                         asterisk, star                           |                 asterisco                 |
-|   `-`    |                           dash, hyphen                           |                   guión                   |
-|   `_`    |                            underscore                            |          barra baja, guión bajo           |
-|   `=`    |                              equals                              |          igual que, signo igual           |
-|   `+`    |                               plus                               |                 suma, más                 |
-|   `~`    |                              tilde                               |         virgurilla, tilde de la ñ         |
+|   `-`    |                           dash, hyphen                           |                   traço                   |
+|   `_`    |                            underscore                            |                underscore                 |
+|   `=`    |                              equals                              |                    igual                  |
+|   `+`    |                               plus                               |                    mais                   |
+|   `~`    |                              tilde                               |                    tilde                  |
 |   `<`    |                            less than                             |                 menor que                 |
-|   `>`    |                           greater than                           |                 mayor que                 |
-|   `<=`   |                      less than or equal to                       |             menor o igual que             |
-|   `>=`   |                     greater than or equal to                     |             mayor o igual que             |
+|   `>`    |                           greater than                           |                 maior que                 |
+|   `<=`   |                      less than or equal to                       |             menor ou igual que            |
+|   `>=`   |                     greater than or equal to                     |             maior ou igual que            |
 |   <code>&#124;</code>    |                     bar, vertical bar, pipe                      |           barra, barra vertical           |
-|   `/`    |                              slash                               |              barra inclinada              |
-|   `\`    |                            backslash                             |              barra invertida              |
+|   `/`    |                              slash                               |              barra, slash                 |
+|   `\`    |                            backslash                             |              barra, backslash             |
