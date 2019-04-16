@@ -4,7 +4,7 @@ As a software developer, when you are working with machines, you don't have to t
 
 # Symbols
 
-| Symbol   |                            English 🇬🇧                            |                Portuguese🇵🇹🇸            |
+| Symbol   |                            English 🇬🇧                            |                Portuguese🇵🇹               |
 | :------: | :--------------------------------------------------------------: | :---------------------------------------: |
 |   `;`    |                            semicolon                             |               ponto e vírgula             |
 |   `:`    |                              colon                               |                dois pontos                |
@@ -19,7 +19,7 @@ As a software developer, when you are working with machines, you don't have to t
 |   `!`    |                      exclamation mark, bang                       | ponto de exclamação |
 |   `?`    |                          question mark                           |         ponto de interrogação          |
 |   `@`    |                                at                                |                  arroba                   |
-|   `#`    |                               hash                               |                cardinal .                 |
+|   `#`    |                               hash                               |                cardinal                  |
 |   `$`    |                           dollar sign                            |                   dólar                   |
 |   `%`    |                           percent sign                           |                percentagem                 |
 |   `^`    |                              caret                               |            acento circunflexo / chapéu             |
