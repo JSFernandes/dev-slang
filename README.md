@@ -1,6 +1,6 @@
 # What is this repo about?
 
-As a software developer, when you are working with machines, you don't have to talk to them (normally). However there are times when you need to talk to a human colleague about the code you just created, it is then when sometimes it becomes difficult or confusing how to pronounce symbols such as `[`, `;`, `~`... This repo will try to collect all these characters and symbols for humans and the proper way to pronounce them in English and Spanish.
+As a software developer, when you are working with machines, you don't have to talk to them (normally). However there are times when you need to talk to a human colleague about the code you just created, it is then when sometimes it becomes difficult or confusing how to pronounce symbols such as `[`, `;`, `~`... This repo will try to collect all these characters and symbols for humans and the proper way to pronounce them in English and Portuguese.
 
 # Symbols
 
