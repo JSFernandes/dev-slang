@@ -23,17 +23,17 @@ As a software developer, when you are working with machines, you don't have to t
 |   `$`    |                           dollar sign                            |                   dólar                   |
 |   `%`    |                           percent sign                           |                percentagem                 |
 |   `^`    |                              caret                               |            acento circunflexo / chapéu             |
-|   `&`    |                            ampersand                             |                 ampersand                 |
+|   `&`    |                            ampersand                             |                 "e" comercial, ampersand                 |
 |   `*`    |                         asterisk, star                           |                 asterisco                 |
 |   `-`    |                           dash, hyphen                           |                   traço                   |
 |   `_`    |                            underscore                            |                underscore                 |
 |   `=`    |                              equals                              |                    igual                  |
 |   `+`    |                               plus                               |                    mais                   |
-|   `~`    |                              tilde                               |                    tilde                  |
+|   `~`    |                              tilde                               |                    til                    |
 |   `<`    |                            less than                             |                 menor que                 |
 |   `>`    |                           greater than                           |                 maior que                 |
 |   `<=`   |                      less than or equal to                       |             menor ou igual que            |
 |   `>=`   |                     greater than or equal to                     |             maior ou igual que            |
 |   <code>&#124;</code>    |                     bar, vertical bar, pipe                      |           barra, barra vertical           |
-|   `/`    |                              slash                               |              barra, slash                 |
-|   `\`    |                            backslash                             |              barra, backslash             |
+|   `/`    |                              slash                               |              barra, barra para a frente                 |
+|   `\`    |                            backslash                             |              barra, barra para trás, backslash             |
